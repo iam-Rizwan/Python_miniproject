@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+goal = input("What’s your goal? ")
+print("\n--- Summary ---")
+print("Name:", name)
+print("Age:", age)
+print("Goal:", goal)
+print("Learning Python?", True)
